@@ -7,7 +7,7 @@ function CvApp( ){
         <h2>GETRUDE KYEI BAFFOUR</h2>
         <h4>CURRICULUM VITAE</h4>
         <p>techytrudy@gmail.com</p>
-        <p>I am Getrude Kyei Baffour from Ghana. I am 21 years of age. I live in Ghana.
+        <p>I am Getrude Kyei Baffour from Ghana. I am 21 years of age. I live and school in Ghana.
      
 <h3>EDUCATION AND SKILLS</h3>
 <p>I graduated from Codeafric web development bootcamp. I am passionate about  <br/> coding and solving problems through code.
